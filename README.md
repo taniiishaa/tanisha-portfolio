@@ -235,6 +235,7 @@ Interactive elements
 Personal storytelling
      ↓
 Technical depth
+```text
 
 The visual experience is intentionally balanced with performance and usability.
 
