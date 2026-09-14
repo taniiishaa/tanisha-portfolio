@@ -2,9 +2,9 @@
 
 # ✦ TANISHA ✦
 
-### Backend & Applied AI Developer
+### Backend & AI Developer
 
-**Building intelligent, scalable & production-ready software systems.**
+**Building intelligent, scalable & practical solutions.**
 
 <p>
   <a href="https://10ii.netlify.app">
@@ -14,11 +14,14 @@
     <img src="https://img.shields.io/badge/GitHub-taniiishaa-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/tanisha-chaudhary-121621292">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanisha-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-> A digital space engineered to showcase my technical journey, architectural decisions, and interactive AI experiments.
+<br/>
+
+> A little corner of the internet where I build, experiment, learn,  
+> and turn ideas into real things.
 
 <br/>
 
@@ -30,47 +33,42 @@
 
 ## ✦ About The Project
 
-This repository houses the source code for my personal developer portfolio. Rather than serving as a static digital resume, it is designed as an interactive web experience that demonstrates modern frontend engineering, physics-based UI, and clean system design.
+This repository contains my personal developer portfolio — a place where I bring together my work, experiments, technical journey, and the things I'm currently building.
 
-### Core Focus Areas
-- 🤖 **Applied AI & Agentic Systems:** LangChain, Ollama, Gemini API, and grounded response pipelines.
-- ⚙️ **Backend Development:** Scalable APIs, microservices, and asynchronous event flows using Python & Flask.
-- 🗄️ **Databases & Architecture:** Relational schemas, vector indexing, and RESTful system designs.
-- 🧪 **Interactive Web Graphics:** 3D physics rendering with Three.js and dynamic GSAP motion paths.
+Rather than making the portfolio feel like a traditional resume website, I wanted it to feel more like **my own digital space** — interactive, visual, and still technically meaningful underneath.
+
+The portfolio highlights my work across:
+
+- 🤖 **Applied AI & LLM-based systems**
+- ⚙️ **Backend development**
+- ☁️ **Cloud & deployment**
+- 🗄️ **Databases & APIs**
+- 🧩 **Modern web technologies**
+- 🧪 **Experiments & side projects**
+
+The goal is simple:
+
+**Build useful things. Understand how they work. Keep improving them.**
 
 ---
 
-## ✨ Navigation Overview
+## ✨ What You'll Find Here
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏠 Landing & Identity
-Minimal hero section establishing core technical focus as a **Backend & AI Developer** with physics-driven background visual elements.
+### 🏠 Landing Experience
+
+A minimal hero section introducing my current direction as a **Backend & AI Developer**, with smooth animations and an interactive visual experience.
 
 </td>
 
 <td width="50%">
 
-### 👩🏻‍💻 Engineering Philosophy
-An insight into how I approach problem solving, architecture design, and LLM orchestration.
+### 👩🏻‍💻 About Me
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 Career & Experience
-Timeline highlighting technical mentorship roles, software engineering simulations, and backend work.
-
-</td>
-
-<td width="50%">
-
-### 🚀 Technical Projects
-Deep-dives into ATS engines, AI decision-support systems, and grounded research assistants.
+A short look into how I approach software development, applied AI, problem solving, and learning through projects.
 
 </td>
 </tr>
@@ -78,15 +76,35 @@ Deep-dives into ATS engines, AI decision-support systems, and grounded research 
 <tr>
 <td width="50%">
 
-### 🧠 Interactive Tech Stack
-An interactive 3D rigid-body canvas built with React Three Fiber and Rapier.
+### 💼 Career
+
+A timeline-style section covering my professional experience, internships, and technical journey.
 
 </td>
 
 <td width="50%">
 
-### 📄 Resume & Assets
-Direct access to my updated resume and technical credentials.
+### 🚀 Projects
+
+Selected projects covering AI systems, resume intelligence, research assistants, APIs, and practical automation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Tech Stack
+
+An interactive 3D technology section showcasing the tools and technologies I work with.
+
+</td>
+
+<td width="50%">
+
+### 📄 Resume
+
+A directly accessible version of my current resume for recruiters and collaborators.
 
 </td>
 </tr>
@@ -94,60 +112,126 @@ Direct access to my updated resume and technical credentials.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+# 🛠️ Tech Stack
 
-### Frontend & Rendering
+The portfolio combines modern frontend technologies with animation and 3D rendering.
+
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-### AI & Backend Capabilities
+### Styling & Motion
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+</p>
+
+### 3D & Interaction
+
+<p>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rapier-000000?style=for-the-badge"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 01 — Intelligent Employee Support & Decision System
-> **AI Architecture • Backend Workflows • Decision Support**
-
-An automated enterprise assistance platform designed to process internal inquiries and convert raw departmental data into structured action items.
-* **Key Features:** Automated ticket routing, semantic query parsing, and custom API pipelines.
-* **Stack:** Python, Flask, REST APIs, NLP algorithms.
+The portfolio currently highlights three projects that represent different parts of my technical journey.
 
 ---
 
-### 02 — Smart Resume Analyzer & ATS Scorer
-> **NLP Parsing • Resume Intelligence • Vector Matching**
+## 01 — AI-Powered Employee Support & Decision System
 
-A career-tech application that evaluates resume compatibility against job specs using automated entity extraction and keyword matching algorithms.
-* **Key Features:** Named entity recognition (NER), skill extraction, structured JSON export, interactive visualization dashboard.
-* **Stack:** Python, Streamlit, spaCy, NLP.
+> **AI • Backend • Decision Support**
+
+An intelligent employee-support system designed to turn employee queries and organizational information into structured, useful responses and decision-support insights.
+
+### Focus Areas
+
+- 🤖 AI-powered assistance
+- 🧠 Intelligent decision support
+- ⚙️ Backend workflows
+- 🔗 API-based architecture
+- 📊 Structured information processing
+
+**Built with:** Python · FastAPI · AI/LLM technologies
 
 ---
 
-### 03 — Grounded Gemini Research Assistant
-> **LLM Grounding • Context Windows • RAG Workflows**
+## 02 — Smart Resume Analyzer & ATS Scorer
 
-A specialized research tool designed to eliminate hallucinations by anchoring LLM responses strict to provided source documentation.
-* **Key Features:** Context-aware document indexing, continuous streaming output, factual validation pipelines.
-* **Stack:** Python, Gemini API, Streamlit, LangChain.
+> **NLP • Resume Intelligence • Streamlit**
+
+A practical resume analysis application created around a problem I personally found interesting — understanding how resumes perform against ATS-style requirements.
+
+The application analyzes resume content, extracts relevant information, evaluates skills, and presents the results in a more understandable format.
+
+### Highlights
+
+- 📄 Resume parsing
+- 🧠 NLP-based analysis
+- 🎯 ATS-oriented scoring
+- 🛠️ Skill extraction
+- 📊 Structured results
+- 📤 JSON export
+
+**Built with:** Python · Streamlit · NLP · spaCy
 
 ---
 
-## 🎨 Interactive Architecture
+## 03 — Grounded Gemini Research Assistant
 
-The interactive technology section utilizes **React Three Fiber (R3F)** and **Rapier physics**:
+> **LLMs • Research • Grounded AI**
+
+A research-focused AI assistant designed around a simple idea:
+
+**AI responses should be grounded in the information provided to it.**
+
+The project explores document processing, research workflows, and grounded responses using Google's Gemini ecosystem.
+
+### Focus Areas
+
+- 🔎 Research assistance
+- 📚 Document processing
+- 🤖 Gemini-powered reasoning
+- 🧠 Grounded responses
+- 🗂️ Context-aware workflows
+
+**Built with:** Python · Gemini · Streamlit · AI/LLM tooling
+
+---
+
+# 🎨 Design Philosophy
+
+I wanted the portfolio to feel different from a typical developer website.
+
+Instead of filling the page with cards and text, the design focuses on:
 
 ```text
-3D Mesh Spheres  ──►  RigidBody Physics  ──►  Mouse Impulse Dynamics  ──►  Postprocessing Filters
+Minimal UI
+     ↓
+Smooth motion
+     ↓
+Interactive elements
+     ↓
+3D technology visualization
+     ↓
+Personal storytelling
+     ↓
+Technical depth
