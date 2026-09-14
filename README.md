@@ -348,5 +348,47 @@ Production
 10ii.netlify.app
 ```
 
-## 🔗 Live Website
+# 🔗 Live Website
 <div align="center"> <a href="https://10ii.netlify.app"> <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-10ii.netlify.app-00C7B7?style=for-the-badge" alt="Visit Portfolio"/> </a> </div>
+
+# 🔄 Continuous Deployment
+
+Because the repository is connected to Netlify, updates can follow a simple workflow:
+```bash
+Edit
+  ↓
+Commit
+  ↓
+Push to GitHub
+  ↓
+Netlify detects changes
+  ↓
+Build
+  ↓
+Deploy
+  ↓
+Live 🚀
+```
+This makes it easy to keep the portfolio updated as I continue learning and building.
+
+# 🧠 What I Learned
+
+Building this portfolio wasn't just about creating a website.
+
+It gave me hands-on experience with:
+
+⚛️ React component architecture
+📘 TypeScript
+⚡ Vite
+🎞️ GSAP animations
+🌌 Three.js & React Three Fiber
+🧲 Physics-based interaction
+🗂️ Asset management
+📱 Responsive design
+🔧 Production builds
+🌐 GitHub-based deployment
+🚀 Netlify deployment
+🧹 Refactoring an existing codebase
+🎨 Balancing design with functionality
+
+Most importantly, it taught me that building a project is only half the work — understanding, improving, and maintaining it is the other half.
