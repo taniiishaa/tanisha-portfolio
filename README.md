@@ -421,7 +421,7 @@ I'm particularly interested in building systems that connect AI with real applic
 
 # ✦ A Little More About Me
 
-I'm Tanisha Chaudhary, a Computer Science undergraduate exploring the intersection of backend engineering and applied AI.
+I'm Tanisha , a Computer Science undergraduate exploring the intersection of backend engineering and applied AI.
 
 I enjoy:
 
@@ -442,17 +442,26 @@ That's kind of the point. ✦
 
 # 🌟 Credits & Attribution
 
-This portfolio was developed by Tanisha Chaudhary and substantially customized for my own portfolio, content, visual identity, projects, assets, and technical direction.
+This portfolio is a personalized and substantially customized version of an existing open-source portfolio codebase, adapted for **Tanisha**.
 
-The project originated from an existing open-source portfolio codebase that I used as a starting point for learning and customization.
+The project has been extensively modified with my own:
 
+- 🎨 Visual identity and design choices
+- 💻 Content and portfolio sections
+- 🚀 Projects and technical information
+- 🖼️ Personal assets and imagery
+- 🧩 Components and functionality
+- ⚙️ Technical customizations
+  
 ### Original Project
 
 MoncyDev / Portfolio-Website
 
 🔗 https://github.com/MoncyDev/Portfolio-Website
 
-The original project's licensing and usage terms should be respected separately from my personal modifications.
+The original project served as a learning and development starting point.Original licensing, copyright, and attribution requirements remain applicable to the portions derived from the original codebase.
+
+All personal content and assets belonging to **Tanisha** are independently owned and are not licensed for reuse.
 
 <div align="center">
 Built with curiosity, caffeine & a lot of debugging. ☕💻
