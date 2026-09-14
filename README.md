@@ -292,3 +292,61 @@ tanisha-portfolio/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+```
+# ⚡ Run Locally
+
+Want to explore or modify the portfolio locally?
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/taniiishaa/tanisha-portfolio.git
+```
+### 2. Move into the project
+
+```bash
+cd tanisha-portfolio
+```
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The development server will usually be available at:
+
+```bash
+http://localhost:5173
+```
+### 5. Create a production build
+
+```bash
+npm run build
+```
+# 🌐 Deployment
+
+The portfolio is deployed using Netlify and connected directly to GitHub.
+
+```bash
+GitHub
+   │
+   │ push / commit
+   ▼
+Netlify
+   │
+   │ npm run build
+   ▼
+Production
+   │
+   ▼
+10ii.netlify.app
+```
+
+## 🔗 Live Website
+<div align="center"> <a href="https://10ii.netlify.app"> <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-10ii.netlify.app-00C7B7?style=for-the-badge" alt="Visit Portfolio"/> </a> </div>
