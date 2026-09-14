@@ -377,18 +377,86 @@ Building this portfolio wasn't just about creating a website.
 
 It gave me hands-on experience with:
 
-⚛️ React component architecture
-📘 TypeScript
-⚡ Vite
-🎞️ GSAP animations
-🌌 Three.js & React Three Fiber
-🧲 Physics-based interaction
-🗂️ Asset management
-📱 Responsive design
-🔧 Production builds
-🌐 GitHub-based deployment
-🚀 Netlify deployment
-🧹 Refactoring an existing codebase
-🎨 Balancing design with functionality
+- ⚛️ React component architecture
+- 📘 TypeScript
+- ⚡ Vite
+- 🎞️ GSAP animations
+- 🌌 Three.js & React Three Fiber
+- 🧲 Physics-based interaction
+- 🗂️ Asset management
+- 📱 Responsive design
+- 🔧 Production builds
+- 🌐 GitHub-based deployment
+- 🚀 Netlify deployment
+- 🧹 Refactoring an existing codebase
+- 🎨 Balancing design with functionality
 
 Most importantly, it taught me that building a project is only half the work — understanding, improving, and maintaining it is the other half.
+
+# 💻 Development Philosophy
+
+I don't want to build projects just because a technology is trending.
+
+I like projects that start with a problem and end with something that can actually be used.
+
+My current interests sit around:
+
+```bash 
+Backend Engineering
+        +
+Applied AI
+        +
+LLMs & Agentic Systems
+        +
+Cloud
+        +
+Practical Problem Solving
+```
+
+I'm particularly interested in building systems that connect AI with real applications, rather than keeping AI isolated inside demos.
+
+# ✦ A Little More About Me
+
+I'm Tanisha Chaudhary, a Computer Science undergraduate exploring the intersection of backend engineering and applied AI.
+
+I enjoy:
+
+- 🛠️ Building practical applications
+- 🐍 Working with Python and APIs
+- 🤖 Exploring AI/LLM systems
+- 🔍 Understanding how systems work under the hood
+- 🧩 Turning messy problems into structured solutions
+- 🤝 Sharing what I learn with others
+
+And yes — I'm still learning.
+
+That's kind of the point. ✦
+
+# 🤝 Connect With Me
+
+<div align="center"> <a href="https://github.com/taniiishaa"> <img src="https://img.shields.io/badge/GitHub-taniiishaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/tanisha-chaudhary-121621292"> <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://10ii.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-10ii.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/> </a> </div>
+
+# 🌟 Credits & Attribution
+
+This portfolio was developed by Tanisha Chaudhary and substantially customized for my own portfolio, content, visual identity, projects, assets, and technical direction.
+
+The project originated from an existing open-source portfolio codebase that I used as a starting point for learning and customization.
+
+Original Project
+
+MoncyDev / Portfolio-Website
+
+🔗 https://github.com/MoncyDev/Portfolio-Website
+
+The original project's licensing and usage terms should be respected separately from my personal modifications.
+
+<div align="center">
+Built with curiosity, caffeine & a lot of debugging. ☕💻
+
+Tanisha © 2026
+
+<br/>
+
+⭐ If you found something interesting here, feel free to explore the projects.
+
+</div> ```
