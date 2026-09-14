@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="assets/portfolio-preview.png" alt="Tanisha Portfolio Preview" width="90%"/>
+<img src="assets/portfolio-preview.png" alt="Tanisha Portfolio Preview" width="900"/>
 
 </div>
 
@@ -442,7 +442,7 @@ This portfolio was developed by Tanisha Chaudhary and substantially customized f
 
 The project originated from an existing open-source portfolio codebase that I used as a starting point for learning and customization.
 
-Original Project
+### Original Project
 
 MoncyDev / Portfolio-Website
 
@@ -459,4 +459,4 @@ Tanisha © 2026
 
 ⭐ If you found something interesting here, feel free to explore the projects.
 
-</div> ```
+</div> 
