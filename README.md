@@ -235,3 +235,59 @@ Interactive elements
 Personal storytelling
      ↓
 Technical depth
+
+The visual experience is intentionally balanced with performance and usability.
+
+---
+
+# 🧩 Interactive Tech Stack
+
+One of the visual highlights of the portfolio is the interactive technology section.
+
+The technology icons are rendered as **3D spheres** using:
+
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Rapier Physics
+- React Three Postprocessing
+
+The spheres respond to interaction and physics simulation, creating a playful way to explore the technologies I work with.
+
+---
+
+# 📁 Project Structure
+
+```text
+tanisha-portfolio/
+│
+├── public/
+│   ├── images/
+│   │   ├── tanisha-portrait.png
+│   │   ├── ai-employee-system.png
+│   │   ├── smart-resume-analyzer.png
+│   │   ├── gemini-research-assistant.png
+│   │   └── ...
+│   │
+│   ├── models/
+│   └── Tanisha_Resume.pdf
+│
+├── src/
+│   ├── components/
+│   │   ├── Landing/
+│   │   ├── About/
+│   │   ├── Career/
+│   │   ├── Work/
+│   │   ├── TechStack/
+│   │   └── ...
+│   │
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── ...
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
