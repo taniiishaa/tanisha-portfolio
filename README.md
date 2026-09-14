@@ -25,7 +25,11 @@
 
 <br/>
 
-<img src="./assets/portfolio-preview.png" alt="Tanisha Portfolio Preview" width="900"/>
+<div align="center">
+
+![Tanisha Portfolio Preview](./assets/portfolio-preview.png)
+
+</div>
 
 </div>
 
