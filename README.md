@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-taniiishaa-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/tanisha-chaudhary-121621292">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
